@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\bin\Debug\net8.0\ControllingSerialization.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\bin\Debug\net8.0\ControllingSerialization.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\bin\Debug\net8.0\ControllingSerialization.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\bin\Debug\net8.0\ControllingSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\bin\Debug\net8.0\ControllingSerialization.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\refint\ControllingSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ControllingSerialization.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\ControllingSerialization\obj\Debug\net8.0\ref\ControllingSerialization.dll

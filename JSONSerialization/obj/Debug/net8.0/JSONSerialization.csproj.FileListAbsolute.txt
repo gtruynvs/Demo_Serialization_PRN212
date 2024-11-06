@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\bin\Debug\net8.0\JSONSerialization.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\bin\Debug\net8.0\JSONSerialization.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\bin\Debug\net8.0\JSONSerialization.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\bin\Debug\net8.0\JSONSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\bin\Debug\net8.0\JSONSerialization.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\refint\JSONSerialization.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\JSONSerialization.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo-Serialization\JSONSerialization\obj\Debug\net8.0\ref\JSONSerialization.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C10A2BC-8CA7-4071-BE51-991875F5CC9D}|ManageProductsApp\\ManageProductsApp.csproj|d:\\university\\sem5\\prn212\\code\\demo-serialization\\manageproductsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C10A2BC-8CA7-4071-BE51-991875F5CC9D}|ManageProductsApp\\ManageProductsApp.csproj|solutionrelative:manageproductsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-Serialization\\ManageProductsApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManageProductsApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo-Serialization\\ManageProductsApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManageProductsApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:27:02.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
